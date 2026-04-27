@@ -1,5 +1,6 @@
 # Contributors
 - [Akash Chakraborty](https://github.com/deep72p0)
+- [Sharad Malviya](https://github.com/SharadMalviya-0)
 - [calvinxu](https://github.com/calvinxu123456-hue)
 - [SE Jihad](https://github.com/sejihad)
 - [Sloki Bhetwal](https://github.com/slokib)
@@ -3422,8 +3423,10 @@ Oiloo
 - [Karan Rohra](https://github.com/karanrohra)
 - [naoki shibata](https://github.com/nosh1114)
 - [Nguyen Tu Minh Long](https://github.com/NguyenTuMinhLong)
+- dareto
 - [hi000513](https://github.com/hi000513)
 - [G S Abinivas](https://github.com/abi6374)
 - [Meet Patadiya](https://github.com/meetpatdiya)
 - - [Anand Pandey](https://github.com/anand16-info)
-- Anjum
+- [Anjum] (https://github.com/tabassumansari9811-dotcom)
+- [Sahitya Chaddha](https://github.com/Sahitya3105)
